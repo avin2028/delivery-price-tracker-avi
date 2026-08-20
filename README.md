@@ -1,6 +1,13 @@
-# Introduction to GitHub
+# Delivery Price Tracker (10 Minutes)
 
-_Get started using GitHub in less than an hour._
+Simple Python tracker that polls a delivery-app price endpoint every 10 minutes.
+
+## Quick start
+
+```bash
+python /home/runner/work/delivery-price-tracker-avi/delivery-price-tracker-avi/delivery_price_tracker.py \
+  "https://example.com/price.json"
+```
 
 ## Welcome
 
